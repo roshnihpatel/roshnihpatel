@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm training as a Java SDET at Sparta Global
 
 <!--
 **roshnihpatel/roshnihpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
