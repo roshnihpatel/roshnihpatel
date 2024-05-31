@@ -1,5 +1,9 @@
-### Hi there 👋
-I'm training as a Java SDET at Sparta Global
+### Hi there, I'm Roshni👋
+Experienced Software Engineer proficient in front-end development using React and CSS, as well as back-end development with JavaScript. Skilled in Quality Assurance with a focus on Test Automation. Enthusiastic about AI technologies with a keen interest in technological advancements to advance the wellbeing of individuals on a global scale.
+
+- 🌱 I’m currently learning python
+- 📫 How to reach me: roshnihpatel@outlook.com
+- 😄 Pronouns: she/her
 
 <!--
 **roshnihpatel/roshnihpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
