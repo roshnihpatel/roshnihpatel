@@ -1,7 +1,7 @@
 ### Hi there, I'm Roshni👋
-Experienced Software Engineer proficient in front-end development using React and CSS, as well as back-end development with JavaScript. Skilled in Quality Assurance with a focus on Test Automation. Enthusiastic about AI technologies with a keen interest in technological advancements to advance the wellbeing of individuals on a global scale.
+Experienced Software Engineer proficient in front-end development using React and CSS, as well as back-end development with Java. Skilled in Quality Assurance with a focus on Test Automation. Enthusiastic about AI technologies with a keen interest in technological advancements to advance the wellbeing of individuals on a global scale.
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python - check out my pyhton mini projects here https://github.com/roshnihpatel/python_mini_projects
 - 📫 How to reach me: roshnihpatel@outlook.com
 - 😄 Pronouns: she/her
 
